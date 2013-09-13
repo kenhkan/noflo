@@ -29,7 +29,7 @@
     "read-installed": "0.0.x",
     "npmlog": "0.0.x",
     "coffee-script": ">=1.1.0",
-    "fbp": "1.x.x"
+    "fbp": "https://github.com/kenhkan/fbp/archive/1.0.1+allow_iip_escape.tar.gz"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
